@@ -5,7 +5,7 @@
 - Core Features
 - Parts List
 - Additional things you will need
-- Installation Guide
+- Build Guide
 - Possible Extensions
 - AI-Usage Declaration
 
@@ -22,6 +22,9 @@ M stands for several Things:
 - Mind-Mirror: It isn't an ordinary mirror (ik, ik, crazy). It can display Information, control your Smart-Home and most importantly answer your complex questions using AI, which gives this "ordinary" pice of furniture a mind.
 - Motivation-Mirror: The mirror is supposed to motivate me (and hopefully you) to work out more often (and go outside more often in general...) by telling me the perfect time to do so and what to wear and by tracking my progress.
 
+Read my devlog for more information!  
+https://stardance.hackclub.com/projects/32034/devlogs/21031
+
 ## Core Features
 - Widegts
     - Weather
@@ -35,9 +38,8 @@ M stands for several Things:
     - *Play [Song] by [Artist] on Spotify*
 - AI-Agent
     - More complex questions and tasks
-        - *What should I wear today?*
-        - *When will it rain?*
-        - *Match my bedroom lights to the music I am listening to*
+- Web interface for setup and customizastion
+- (being a mirror)
 
 ## Parts List
 *Note that the linked websites and prices are for germany.*
@@ -71,6 +73,9 @@ M stands for several Things:
 - Tools to decase the monitor
 - 10mm or 12mm wood screws
 - Cordless Screwdriver (recommended)
+
+## Build Guide
+Sorry, this part doesn't exist yet 😖
 
 ## Possible Extensions
 - Led Backlight
